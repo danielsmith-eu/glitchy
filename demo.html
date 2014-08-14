@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>glitchy.js demo</title>
+        <style>
+            html,body {
+                min-width: 100%;
+                min-height: 100%;
+                margin: 0px;
+                padding: 0px;
+            }
+            img {
+                max-width: 100%;
+                max-height: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <img class="glitchy" src="img/Southampton_road_map_1948.jpg" alt="Southampton Road Map (Public Domain)" />
+
+        <script src="js/bower/jquery/dist/jquery.min.js"></script>
+        <script src="js/glitchy.js"></script>
+        <script>
+            $(".glitchy").each(function (i, img) { new Glitchy(img) });
+        </script>
+    </body>
+</html>

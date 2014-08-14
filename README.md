@@ -1,0 +1,4 @@
+# glitchy.js
+
+Glitches images.
+

@@ -1,0 +1,26 @@
+{
+  "name": "glitchy",
+  "version": "1.0.0",
+  "authors": [
+    "Dr. Daniel A Smith <daniel@danielsmith.eu>"
+  ],
+  "description": "Glitches images",
+  "main": "js/glitchy.js",
+  "keywords": [
+    "glitch",
+    "images"
+  ],
+  "license": "BSD",
+  "homepage": "https://github.com/danielsmith-eu/glitchy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
