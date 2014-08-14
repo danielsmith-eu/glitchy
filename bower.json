@@ -1,6 +1,6 @@
 {
   "name": "glitchy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     "Dr. Daniel A Smith <daniel@danielsmith.eu>"
   ],
@@ -18,7 +18,9 @@
     "bower_components",
     "js/bower",
     "test",
-    "tests"
+    "tests",
+    "demo.html",
+    "img"
   ],
   "dependencies": {
     "jquery": "~2.1.1"
