@@ -1,0 +1,26 @@
+{
+  "name": "glitchy",
+  "version": "1.1.0",
+  "description": "Glitch your images.",
+  "main": "js/glitch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": "2.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielsmith-eu/glitchy.git"
+  },
+  "keywords": [
+    "glitch",
+    "image"
+  ],
+  "author": "Daniel Alexander Smith <daniel@danielsmith.eu> (https://danielsmith.eu/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/danielsmith-eu/glitchy/issues"
+  },
+  "homepage": "https://github.com/danielsmith-eu/glitchy"
+}
